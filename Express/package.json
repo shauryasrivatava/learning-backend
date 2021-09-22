@@ -1,0 +1,17 @@
+{
+  "name": "learningbackend",
+  "version": "1.0.0",
+  "description": "code with harry tutorials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
